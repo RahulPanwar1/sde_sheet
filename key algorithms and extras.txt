@@ -1,0 +1,2 @@
+kadane algorithm
+moore voting algorithm
